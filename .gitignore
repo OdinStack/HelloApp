@@ -1,0 +1,25 @@
+# Ignore compiled files
+*.class
+*.exe
+*.out
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore IDE folders
+.vscode/
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore build folders
+build/
+dist/
+
+# Ignore environment files
+.env
